@@ -40,8 +40,13 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="#resume">
-              Resume
+            {/* <a href="https://blog.paurush.dev" target="_blank" rel="noreferrer">
+              Blog
+            </a> */}
+          </li>
+          <li>
+            <a className="smoothscroll" href="#test">
+              Skills
             </a>
           </li>
           <li>
@@ -50,9 +55,9 @@ const Header = ({ data }) => {
             </a> */}
           </li>
           <li>
-            <a className="smoothscroll" href="#testimonials">
+            {/* <a className="smoothscroll" href="#testimonials">
               Testimonials
-            </a>
+            </a> */}
           </li>
           <li>
             <a className="smoothscroll" href="#contact">
@@ -65,7 +70,7 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <TypeWriter typing={0.5}>{name ? `I'm ${name}` : null}</TypeWriter>
           </h1>
           <h3>
             Based in {city}. <span>{occupation}</span>. {description}.

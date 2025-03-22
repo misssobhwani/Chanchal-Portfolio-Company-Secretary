@@ -1,151 +1,192 @@
 {
   "main": {
-    "name": "Vijeta Sobhwani",
-    "occupation": "Full Stack Developer, Writer, Believer",
-    "description": "I love to code in React",
-    "image": "ProfilePicture.png",
-    "bio":"Hey there! 👋 I’m Vijeta, a results-driven Software Engineer with 5.7 years in IT, specializing in front-end technologies. I have a knack for crafting clean, elegant, and user-friendly web experiences, bringing ideas to life with pixel-perfect precision. Passionate about innovation, responsive design, and seamless user interactions, I’m always excited to collaborate and create something amazing! 🚀✨",
-    "contactmessage": "Get in touch with me to know more about me!",
-    "email": "misssobhwani@gmail.com",
-    "phone": "+91 7415788605",
+    "name": "Chanchal Sobhwani",
+    "occupation": "Company Secretary (CS)",
+    "description": "Believer, Ordinary-Special",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Chanchal Sobhwani! A Professional, who is eagerly waiting to grabthe opportunity in its field, simultaneously toexplore and to serve society. Dynamic professional with a solid foundation incompliance management of company. Proven ability to enhance team performance through effective communication and strong organisational skills.",
+    "contactmessage": "Get in touch with me for any leads!",
+    "email": "Email: sobhwani.chanchal@gmail.com",
+    "phone": "Contact: +91 9098831745",
     "address": {
       "street": "Sindhi Colony",
-      "city": "India",
-      "state": "Chattisgarh",
+      "city": "Raigarh, India",
+      "state": "Chhattisgarh,",
       "zip": "496001"
     },
-    "website": "https://www.linkedin.com/in/vijeta-sobhwani-a9a384154/",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1rOaioSIGvpJ40nM-7eT-XX6kzVk7P5Cl",
+    "website": "https://www.linkedin.com/in/chanchal-sobhwani-308966204",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1k3pOmJZdskfWGnuJPCSnCRxyPQYnN3Zb",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/vijeta.shobhwani/ ",
+        "url": "https://www.facebook.com/chanchal.sobhwani/ ",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/vijeta-sobhwani-a9a384154/",
+        "url": "https://www.linkedin.com/in/chanchal-sobhwani-308966204",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/i_vijetasobhwani/",
+        "url": "https://www.instagram.com/me_b2_",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/misssobhwani",
-        "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Skills",
     "education": [
       {
-        "school": "O.P. Jindal institute of Technology - Raigarh",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2018",
-        "description": "Graduated with 76%"
+        "school01": "Institute of Company Secretaries of India",
+        "degree01": "CS Professional - Group 1: 150/300,Group 2: 158/300 (exemption in CRILW), Group 3: 150/300",
+        "degree02": "CS Executive - Group 1: 211/400 (exemption in SBEC & Tax Laws) Group 2: 244/400 (exemption in CMA & EBCL)",
+        "degree03": "CS Foundation - 282/400 (exemption in all 4 Subjects)",
+        "graduated": "2018-2024",
+        "school02": "Bachelor of Commerce",
+        "degree21": "Govt. K.M.T. Girls College, Raigarh, C.G.",
+        "graduatedWith": "Secured 73.44%",
+        "graduated02": "2017-2021"
+   
+        
       }
     ],
     "work": [
       {
-        "company": "Aurigo Software Technologies ",
-        "title": "Senior Software Engineer",
-        "years": "April 2023 - Present",
-        "description1": "• Develop interactive, user-friendly applications using React JS concepts for Web App Development.",
-        "description2": "• Contribute reusable components to the Aurigo UI Community's Storybook.",
-        "description3": "• Optimize application for maximum speed and scalability.",
-        "description4": "• Guided the development of the Form Builder microservice within Aurigo MW, empowering users to create personalized JSON forms seamlessly.",
-        "description5": "• Actively participate in full software development lifecycle including planning, designing, coding, testing, code reviews and implementing."
-      },
-      {
-        "company": "DealerSocket",
-        "title": "Software Engineer",
-        "years": "Febuary 2020 - March 2023",
-        "description1": "• Developed and implemented highly responsive user interface components using React JS concepts.",
-        "description2": "• Translated UI/UX Mock-ups or wireframes into high quality code and the application.",
-        "description3": "• Contributed to all phases of software development life cycle having extensive experience working in an Agile development environment.",
-        "description4": "• Provided continuous value to customers through regular enhancements, timely bug fixes, and code refactoring."
-      },
-      {
-        "company": "Prime Focus Technologies",
-        "title": "Software Trainee",
-        "years": "January 2019 - December 2019",
-        "description1": "• Helped in Implementation of the Uploads and Downloads module of the Clear app",
-        "description2": "• Feature implementation.",
-        "description3": "• Writing clean code in C# and JavaScript.",
-        "description4": "• Solving the complex bugs within given timeline.",
-        "description5": "•  Followed the industry’s best Practices."
+        "company": "Jayaswal Neco Industries Limited",
+        "title": "CS Management Trainee",
+        "years": "July2023 - Present",
+        "description1": "• Handling all company secretarial functions required as per Companies Act, 2013.",
+        "description2": "• Drafted and implemented the Prevention of Sexual Harassment(POSH) policy of one of the group company of NECO.",
+        "description3": "• Managed physical share transfers, including preparing Form SH-4, issuing share certificates, and handling share split documentation.",
+        "description4": "• Application for ISIN (International Securities Identification Number)for equity shares, Dematerializing physical shares and Co-ordination with Depository.",
+        "description5": "• Liasioning for opening of current Bank A/c and Foriegn currency A/cgift city, Gandhi nagar for various group companies.",
+        "description6": "• Conducted search of companies from V2 and V3 Portal and assistedlegal department with preparation of search report.",
+        "description7": "• Increase in Authorised and Paid-up Share Capital as per Companies Act, 2013.",
+        "description8": "• Pledging of promoter shares, Involved in ODI transaction and Refinancing.",
+        "description9": "• Rights issue process, including filing PAS-3 forms for private placement.",
+        "description10": "• Conducted Board Meetings, Annual General Meetings, Extra-Ordinary General Meetings, Committee Meetings & preparation of necessary documents like Notice, Agenda, Notes to Agendas, Drafts Resolution, Attendance Sheet, Preparation of Minutes and other ancillary secretarial documents thereof.",
+        "description11": "• Pledging of promoter shares, Involved in ODI transaction and Refinancing.",
+        "description12": "• Co-ordination with Director, Management, Internal Departments & other Stakeholders.",
+        "description13": "• Showcased strong organizational skills by effectively managing multiple projects and tasks simultaneously, meeting all deadlines and maintaining high level of performance under pressure."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "TypeScript",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "85%"
-      },
-      {
-        "name": "SQL",
-        "level": "80%"
-      },
-      {
-        "name": "Redux",
-        "level": "85%"
-      },  
-      {
-        "name": "REST APIs",
-        "level": "85%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Well versed with MCA Portal",
         "level": "90%"
       },
       {
-        "name": "CSS3",
-        "level": "87%"
+        "name": "Counselling",
+        "level": "85%"
       },
       {
-        "name": "RTL",
-        "level": "87%"
+        "name": "Confidentiality and discreation",
+        "level": "85%"
+      },      
+      {
+        "name": "Team player",
+        "level": "90%"
       },
       {
-        "name": "C#",
-        "level": "70%"
-      }
+        "name": "Drafting",
+        "level": "80%"
+      },
+      {
+        "name": "Compliance Management",
+        "level": "85%"
+      }    
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Ratings on Web page",
+        "title": "Google Docs Clone",
         "category": "",
-        "image": "rating2.png",
-        "url": "https://github.com/skmahato/feedback-backend"
+        "image": "test.gif",
+        "url": "https://google-docs-clone-nu.vercel.app"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://agitated-agnesi-5f6980.netlify.app"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://twitter-clone-d6539.web.app"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://airbnb-clone-chi-nine.vercel.app"
+      },
+      {
+        "title": "Cherry Gift Tree",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://flamboyant-fermat-32a45f.netlify.app"
+      },
+      {
+        "title": "To-do List",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://peaceful-bhabha-fc2f5d.netlify.app/"
+      },
+      {
+        "title": "Pomodoro clock",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://suspicious-kilby-93e038.netlify.app/"
+      },
+      {
+        "title": "Calculator",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://flamboyant-goodall-40c592.netlify.app"
+      },
+      {
+        "title": "Random Quote Machine",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://sleepy-montalcini-e1c33f.netlify.app/"
+      },
+      {
+        "title": "Coordinate Renderer",
+        "category": "",
+        "image": "test.gif",
+        "url": "https://cranky-hoover-c28a9c.netlify.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Vijeta is one of the most dedicated proffesional I have worked with",
-        "user": "Paurush Shrivastava"
+        "text": "I was impressed by Paurush's ability to handle any situation calmly and patiently, good team player . Keep up the good work ",
+        "user": "Arpitha Jn (SDE, Greenway Health)"
       },
       {
-        "text": "Vijeta is very keen about her learnings",
-        "user": "Priyanka Bhadra"
+        "text": "Paurush is very strong with his front end skills (react js). He is very passionate about his learning and growing as an individual in team.",
+        "user": "Vijeta Sobhwani (SDE, DealerSocket)"
+      },
+      {
+        "text": "Paurush is most dedicated professional I’ve worked with. We worked together at Infosys and he helped me a lot to get started and also to understand internal processes.",
+        "user": "Nishat Parween (Systems Engineer, Infosys)"
+      },
+      {
+        "text": "I know paurush as a hard-working and very serious team player. He is energetic, helpful, positive attitude person. His expertise as a developer considerable and his contribution is valuable to project.",
+        "user": "Priyanka Bhadra (SDE, Paytm)"
+      },
+      {
+        "text": "Paurush is a hard working guy having a vast knowledge in his technical field. Apart from academics he is also a good team player and fully dedicated person towards his Goals.",
+        "user": "Ashar Jami (Site Engineer, Muthroot FinCorp Ltd.)"
+      },
+      {
+        "text": "A hard working and fun loving person, would be the best way to describe Paurush. His optimism at the workplace is appreciable. A curious guy, who never settles for average and puts all his effort to attain perfection in whatever he does.",
+        "user": "Srijan Srivastava (Systems Engineer, Infosys)"
       }
     ]
   }
