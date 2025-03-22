@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Vijeta Sobhwani",
+    "occupation": "Full Stack Developer, Writer, Believer",
+    "description": "I love to code in React",
+    "image": "ProfilePicture.png",
+    "bio":"Hey there! 👋 I’m Vijeta, a results-driven Software Engineer with 5.7 years in IT, specializing in front-end technologies. I have a knack for crafting clean, elegant, and user-friendly web experiences, bringing ideas to life with pixel-perfect precision. Passionate about innovation, responsive design, and seamless user interactions, I’m always excited to collaborate and create something amazing! 🚀✨",
+    "contactmessage": "Get in touch with me to know more about me!",
+    "email": "misssobhwani@gmail.com",
+    "phone": "+91 7415788605",
+    "address": {
+      "street": "Sindhi Colony",
+      "city": "India",
+      "state": "Chattisgarh",
+      "zip": "496001"
+    },
+    "website": "https://www.linkedin.com/in/vijeta-sobhwani-a9a384154/",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1rOaioSIGvpJ40nM-7eT-XX6kzVk7P5Cl",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vijeta.shobhwani/ ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vijeta-sobhwani-a9a384154/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_vijetasobhwani/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/misssobhwani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "O.P. Jindal institute of Technology - Raigarh",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with 76%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Aurigo Software Technologies ",
+        "title": "Senior Software Engineer",
+        "years": "April 2023 - Present",
+        "description1": "• Develop interactive, user-friendly applications using React JS concepts for Web App Development.",
+        "description2": "• Contribute reusable components to the Aurigo UI Community's Storybook.",
+        "description3": "• Optimize application for maximum speed and scalability.",
+        "description4": "• Guided the development of the Form Builder microservice within Aurigo MW, empowering users to create personalized JSON forms seamlessly.",
+        "description5": "• Actively participate in full software development lifecycle including planning, designing, coding, testing, code reviews and implementing."
+      },
+      {
+        "company": "DealerSocket",
+        "title": "Software Engineer",
+        "years": "Febuary 2020 - March 2023",
+        "description1": "• Developed and implemented highly responsive user interface components using React JS concepts.",
+        "description2": "• Translated UI/UX Mock-ups or wireframes into high quality code and the application.",
+        "description3": "• Contributed to all phases of software development life cycle having extensive experience working in an Agile development environment.",
+        "description4": "• Provided continuous value to customers through regular enhancements, timely bug fixes, and code refactoring."
+      },
+      {
+        "company": "Prime Focus Technologies",
+        "title": "Software Trainee",
+        "years": "January 2019 - December 2019",
+        "description1": "• Helped in Implementation of the Uploads and Downloads module of the Clear app",
+        "description2": "• Feature implementation.",
+        "description3": "• Writing clean code in C# and JavaScript.",
+        "description4": "• Solving the complex bugs within given timeline.",
+        "description5": "•  Followed the industry’s best Practices."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },  
+      {
+        "name": "REST APIs",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "87%"
+      },
+      {
+        "name": "RTL",
+        "level": "87%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ratings on Web page",
+        "category": "",
+        "image": "rating2.png",
+        "url": "https://github.com/skmahato/feedback-backend"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vijeta is one of the most dedicated proffesional I have worked with",
+        "user": "Paurush Shrivastava"
+      },
+      {
+        "text": "Vijeta is very keen about her learnings",
+        "user": "Priyanka Bhadra"
+      }
+    ]
+  }
+}
